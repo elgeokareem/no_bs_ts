@@ -1,0 +1,1 @@
+1- Puedo correr typescript usando: npx ts-node "nombre_archivo"
